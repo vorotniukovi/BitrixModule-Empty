@@ -6,7 +6,7 @@ use Bitrix\Main\Application;
 use Bitrix\Main\Loader;
 
 /**
- * Class vorlis_empty extends Cmodule
+ * Class vorlis_empty extends Cmodule !
  */
 class vorlis_empty extends CModule
 {
